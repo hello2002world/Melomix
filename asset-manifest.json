@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Melomix/static/css/main.10667a02.css",
+    "main.js": "/Melomix/static/js/main.28b205fb.js",
+    "index.html": "/Melomix/index.html",
+    "main.10667a02.css.map": "/Melomix/static/css/main.10667a02.css.map",
+    "main.28b205fb.js.map": "/Melomix/static/js/main.28b205fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10667a02.css",
+    "static/js/main.28b205fb.js"
+  ]
+}
